@@ -8,7 +8,7 @@ import { ToastContainer } from 'react-toastify';
 
 const App = () => {
 
-  const url = 'http://localhost:8000'
+  const url = 'https://mealify-backend-ypel.onrender.com'
 
   return (
     <div>
