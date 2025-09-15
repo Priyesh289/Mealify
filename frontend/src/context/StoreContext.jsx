@@ -9,7 +9,7 @@ const StoreContextProvider = ({ children }) => {
     const [cartItems, setCartItems] = useState({});
     const [token, setToken] = useState('');
 
-    const url = 'http://localhost:8000'
+    const url = 'https://mealify-backend-ypel.onrender.com'
     const [food_list, setFoodlist] = useState([])
 
     const addToCard = async (itemId) => {
