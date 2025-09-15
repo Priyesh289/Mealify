@@ -3,7 +3,7 @@ import Navbar from './components/navbar/Navbar';
 import PlaceOrder from './pages/PlaceOrder/PlaceOrder';
 import Cart from './pages/Cart/Cart';
 import Home from './pages/Home/Home';
-import Footer from './components/Footer/footer';
+import Footer from './components/Footer/Footer';
 import { useState } from 'react';
 import LoginPopup from './components/LoginPopup/LoginPopup';
 import Verify from './pages/Verify/Verify';
